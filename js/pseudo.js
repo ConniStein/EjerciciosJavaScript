@@ -1,3 +1,17 @@
+//EJERCICIO FUNCION 
+/*function metros_a_pulgadas (metros){
+	var pulgadas;
+	pulgadas= metros/ 0.0254;
+	return pulgadas;
+}
+
+var metros;
+var pulgadas;
+
+metros=prompt("Por favor ingrese los metros", "");
+
+pulgadas = metros_a_pulgadas(metros);
+alert ("Las pulgadas son: " + pulgadas);*/
 
 //Ejercicio #1: Suma de dos números.
 /*var numero1 = parseInt(prompt("Ingresa un número"));
@@ -19,6 +33,7 @@ var total = (base * altura) / 2;
 alert("El área de éste triángulo es: " + total);*/
 
 //Ejercicio #4: Calcular cantidad de galones de leche.
+
 
 //Ejercicio #5: Calcular sueldo semanal.
 /*var horasTrabajadas = parseInt(prompt("Ingrese el número de horas que usted trabaja al día"));
@@ -56,7 +71,7 @@ alert("El valor total de su llamada es: " + costo_llamada);*/
 //ver cómo calcular el valor de la llamada si es que se ingresan segundos en ves de minutos
 
 //Ejercicio #10: Hotel "Cama Arena" (costo estadía)
-var horas = parseInt(prompt("Ingrese el número de horas que desea quedarse en el hotel"));
+/*var horas = parseInt(prompt("Ingrese el número de horas que desea quedarse en el hotel"));
 var valor_hora = 1000;
 var estadia = horas * 1000;
-alert("El valor de su estadía en el hotel es: " + estadia);
+alert("El valor de su estadía en el hotel es: " + estadia);*/
